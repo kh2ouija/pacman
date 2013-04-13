@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pacman-android/pacman-android.iml" filepath="$PROJECT_DIR$/pacman-android/pacman-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pacman-desktop/pacman-desktop.iml" filepath="$PROJECT_DIR$/pacman-desktop/pacman-desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pacman-html/pacman-html.iml" filepath="$PROJECT_DIR$/pacman-html/pacman-html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pacman-main/pacman-main.iml" filepath="$PROJECT_DIR$/pacman-main/pacman-main.iml" />
+    </modules>
+  </component>
+</project>
+
